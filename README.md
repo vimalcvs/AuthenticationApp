@@ -4,6 +4,6 @@
 
 ### To use the app download this apk file:
 
- 
 
-![Screenshot 1]demo.jpg)
+<img src="demo.png" alt="J" width="200"/>
+
